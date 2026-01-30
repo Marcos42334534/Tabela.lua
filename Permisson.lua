@@ -1,8 +1,8 @@
 local Tabela = {
 	Races = {
-		["Shadow Monarc"] = {PlayersPermission = 
+		["Hakaishin"] = {PlayersPermission = 
 			{
-				1449978472;
+				2267845183;
 			}
 			,Icon = 97934617652188};
 		
